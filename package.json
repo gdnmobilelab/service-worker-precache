@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "fs-extra": "^0.30.0",
     "node-fetch": "^1.6.0",
     "promise-tools": "^1.0.2",
     "sander": "^0.5.1",

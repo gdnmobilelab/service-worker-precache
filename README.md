@@ -16,5 +16,5 @@ templates that live inside a Service Worker.
 Usage
 -----
 
-It is (for now) a CLI tool - after running npm install just execute
+It is (for now) a CLI tool - after running `npm install service-worker-precache` just execute
 `service-worker-precache` to see a list of arguments.
